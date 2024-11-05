@@ -3,6 +3,12 @@
 ### Project Title: ECommerce Sales Analysis
 
 ### Table of Contents
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
 
 ### Project Overview
 -----
